@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: trade_review.aux
+The style file: plain.bst
+Database file #1: trade_review_ref.bib
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            555 strings with 5337 characters,
+and the built_in function-call counts, 2524 in all, are:
+= -- 261
+> -- 95
+< -- 0
++ -- 43
+- -- 30
+* -- 191
+:= -- 432
+add.period$ -- 24
+call.type$ -- 8
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 85
+empty$ -- 203
+format.name$ -- 30
+if$ -- 506
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 7
+newline$ -- 43
+num.names$ -- 16
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 31
+quote$ -- 0
+skip$ -- 56
+stack$ -- 0
+substring$ -- 214
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 0
+while$ -- 30
+width$ -- 9
+write$ -- 90
