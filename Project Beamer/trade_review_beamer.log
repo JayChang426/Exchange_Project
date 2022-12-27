@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.29)  27 DEC 2022 00:12
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.29)  27 DEC 2022 22:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1077,22 +1077,48 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (./trade_review_beamer.nav) [1
 
+] (./trade_review_beamer.toc) [2
+
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `TU/MinionPro(0)/m/it' undefined
-(Font)              using `TU/MinionPro(0)/m/n' instead on input line 64.
+(Font)              using `TU/MinionPro(0)/m/n' instead on input line 79.
 
-[2
+[3
 
-] [3
+]
+File: tariff_welfare.png Graphic file (type bmp)
+<tariff_welfare.png>
+ [4
+
+]
+File: Tariff_welfare_flat.png Graphic file (type bmp)
+<Tariff_welfare_flat.png>
+ [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
 
 ]
 \tf@nav=\write6
@@ -1109,15 +1135,15 @@ LaTeX Font Warning: Font shape `TU/MinionPro(0)/m/it' undefined
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `trade_review_beamer.out' has not changed.
-(rerunfilecheck)             Checksum: 66E42ED510F3D51487CF9BDB61076492;363.
+(rerunfilecheck)             Checksum: 2FF2A91A65B34B998318CE832AB9E19F;1138.
  ) 
 Here is how much of TeX's memory you used:
- 26307 strings out of 476919
- 547738 string characters out of 5821840
- 886611 words of memory out of 5000000
- 45711 multiletter control sequences out of 15000+600000
+ 26406 strings out of 476919
+ 549923 string characters out of 5821840
+ 888934 words of memory out of 5000000
+ 45804 multiletter control sequences out of 15000+600000
  408736 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,16n,132p,475b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on trade_review_beamer.pdf (3 pages).
+Output written on trade_review_beamer.pdf (13 pages).
