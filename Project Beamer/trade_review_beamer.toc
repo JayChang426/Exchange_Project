@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Descriptive Statistics}{2}{0}{1}
+\beamer@sectionintoc {2}{First Stage Testing Regressions}{3}{0}{2}

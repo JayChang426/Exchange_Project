@@ -1,0 +1,80 @@
+% TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% Inbuilt themes in beamer
+\documentclass{beamer}
+\usepackage{amsmath, amsfonts, amssymb, amsthm}
+\usepackage{graphicx}
+% \usepackage{ifpdf,mla}
+\usepackage{fontspec}
+\usepackage{ulem}
+\usepackage{booktabs}
+\usepackage{caption} 
+\usepackage{subfigure}
+\usepackage{theorem}
+\usepackage{xeCJK}
+\usepackage{setspace}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{subfigure}
+\usepackage{eurosym}
+\usepackage{textcomp}
+\usepackage{romannum}
+\usepackage{multirow}
+\usepackage{verbatim}
+\usepackage{float}
+\usepackage{rotfloat}
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\let\arraybackslash}p{#1}}
+
+% Theme/Font choice:
+\usetheme{Berkeley}
+\usecolortheme{dolphin}
+\usefonttheme{serif}
+\setbeamerfont{title}{series=\bfseries}
+\setbeamerfont{frametitle}{size=\huge}
+\setmainfont{Minion Pro}
+\setCJKmainfont{宋體-繁}
+\setbeamertemplate{footline}[frame number]
+\beamertemplatenavigationsymbolsempty %removing navigation symbols
+\setbeamertemplate{enumerate item}{\alph{enumi}.}
+% \renewcommand{\baselinestretch}{1.2}
+% \setmainfont{Times New Roman}
+% \setsansfont{宋體-繁}
+
+% Title page details: 
+\title[]{The Impact of Tariffs on Price and Welfare: A Literature Review and Future Research Plan}
+\author[]{Ming-Chieh, Chang}
+\institute{National Taiwan University}
+\date{\today}
+
+\begin{document}
+
+% Title page frame
+\begin{frame}
+    \titlepage 
+\end{frame}
+
+\section{Descriptive Statistics}
+
+\begin{frame}{Descriptive Statistics}
+\underline{\textbf{Proportion of family consuming cigarettes}}
+\begin{itemize}
+    \item Decrease since year 102
+\end{itemize}
+\end{frame}
+
+
+\section{First Stage Testing Regressions}
+\begin{frame}{First Stage Testing Regressions}
+
+\underline{\textbf{Findings and Strategies to "group" the data}}
+\begin{itemize}
+    \item From the above three tables, we found that {\color{red}family type, work place, and work type} 
+    affected how sensitive a household was to react to the price change (by raise in taxes).
+    \item Also, in several documents we found that {\color{red}income level} was strongly correlated to household's price sensitivity.
+    \item As a result, we group the data to run regressions respectively by these four variables as follows.
+\end{itemize}
+
+\end{frame}
+
+\end{document}
