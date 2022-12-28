@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.29)  28 DEC 2022 16:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.29)  28 DEC 2022 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1080,17 +1080,17 @@ Package caption Info: End \AtBeginDocument code.
 ] (./trade_review_beamer.toc) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `TU/MinionPro(0)/m/it' undefined
-(Font)              using `TU/MinionPro(0)/m/n' instead on input line 79.
+(Font)              using `TU/MinionPro(0)/m/n' instead on input line 83.
 
 [3
 
@@ -1138,11 +1138,11 @@ Package rerunfilecheck Info: File `trade_review_beamer.out' has not changed.
 (rerunfilecheck)             Checksum: 2FF2A91A65B34B998318CE832AB9E19F;1138.
  ) 
 Here is how much of TeX's memory you used:
- 26406 strings out of 476919
- 549923 string characters out of 5821840
+ 26410 strings out of 476919
+ 550089 string characters out of 5821840
  888934 words of memory out of 5000000
- 45804 multiletter control sequences out of 15000+600000
- 408736 words of font info for 71 fonts, out of 8000000 for 9000
+ 45806 multiletter control sequences out of 15000+600000
+ 408744 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,16n,132p,475b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
 
