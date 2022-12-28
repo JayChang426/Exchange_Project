@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.29)  28 DEC 2022 16:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.29)  28 DEC 2022 15:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**trade_review
-(./trade_review.tex
+**trade_review_notes
+(./trade_review_notes.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -335,8 +335,8 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-(./trade_review.aux)
-\openout1 = `trade_review.aux'.
+(./trade_review_notes.aux)
+\openout1 = `trade_review_notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -410,9 +410,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
- (./trade_review.out) (./trade_review.out)
+ (./trade_review_notes.out) (./trade_review_notes.out)
 \@outlinefile=\write4
-\openout4 = `trade_review.out'.
+\openout4 = `trade_review_notes.out'.
 
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -477,33 +477,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
  [1
 
-]
-File: tariff_welfare.png Graphic file (type bmp)
-<tariff_welfare.png>
- [2]
-File: tariff_welfare_flat.png Graphic file (type bmp)
-<tariff_welfare_flat.png>
- [3] [4
-
-] [5] (./trade_review.bbl [6]) [7] (./trade_review.aux)
-Package rerunfilecheck Info: File `trade_review.out' has not changed.
-(rerunfilecheck)             Checksum: 22DC108BC87CFE35B8A60295B7795C3D;1138.
+] [2] [3] [4] (./trade_review_notes.aux)
+Package rerunfilecheck Info: File `trade_review_notes.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12322 strings out of 476919
- 255551 string characters out of 5821840
- 630968 words of memory out of 5000000
- 32147 multiletter control sequences out of 15000+600000
- 407703 words of font info for 73 fonts, out of 8000000 for 9000
+ 12252 strings out of 476919
+ 254292 string characters out of 5821840
+ 625003 words of memory out of 5000000
+ 32095 multiletter control sequences out of 15000+600000
+ 404927 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 81i,11n,89p,368b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,11n,89p,272b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on trade_review.pdf (7 pages).
+Output written on trade_review_notes.pdf (4 pages).
